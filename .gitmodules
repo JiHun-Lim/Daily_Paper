@@ -1,0 +1,3 @@
+[submodule "MoCapAct"]
+	path = MoCapAct
+	url = https://github.com/microsoft/MoCapAct.git
